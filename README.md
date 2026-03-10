@@ -1,7 +1,4 @@
-🚀 Infludot Web Platform
-
-Author: Abhinav
-Developed during internship at Infludot
+🚀 Infludot Landing Page
 
 ---
 
