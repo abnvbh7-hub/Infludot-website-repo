@@ -37,8 +37,12 @@ https://github.com/user-attachments/assets/4e32863f-f520-434a-9f9f-8d49579e1fbc
 ---
 
 🖥️ Admin Panel
+<img width="1080" height="2116" alt="1000023812" src="https://github.com/user-attachments/assets/2ee4c5c2-a4e0-4cb6-b3b9-df9f1d09e911" />
+<img width="1080" height="2276" alt="1000023813" src="https://github.com/user-attachments/assets/a45e4da6-b9b9-4dc9-95b2-b2a2050048d5" />
+<img width="1080" height="2109" alt="1000023814" src="https://github.com/user-attachments/assets/73d1b569-de48-456f-9651-6d29f8a121c3" />
 
-<img width="1080" height="2392" alt="1000023808" src="https://github.com/user-attachments/assets/875fac0b-a482-4460-bd3f-1a11f80106c0" /><img width="1080" height="2392" alt="1000023807" src="https://github.com/user-attachments/assets/1b357d17-5ad6-4065-968d-27c75533cd63" /><img width="1080" height="2392" alt="1000023806" src="https://github.com/user-attachments/assets/6784039d-d6a4-4853-bee6-ea91b0428c7a" />---
+
+---
 
 ⚠️ Notes
 
