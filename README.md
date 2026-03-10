@@ -11,7 +11,8 @@ A web platform built with React (frontend) and FastAPI (backend) featuring a RAG
 
 🎥 Project Overview Video
 
-https://github.com/user-attachments/assets/43401d4b-58fd-4e05-81e1-89acf8116028
+
+https://github.com/user-attachments/assets/4e32863f-f520-434a-9f9f-8d49579e1fbc
 
 ---
 
